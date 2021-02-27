@@ -31,14 +31,21 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3], or on  [![Medium][1.2]][1].
+You can find me on  
+> [![LinkedIn][3.2]][3]  
+
+> [![Medium][1.2]][1]   
+
+> [![Gitlab][1.1]][2] 
 
 <!-- Icons -->
 
 [1.2]: https://img.shields.io/badge/medium--_.svg?style=social&logo=medium   
 [3.2]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
+[1.1]: https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab
 
 <!-- Links to your social media accounts -->
 
 [1]: https://medium.com/@gokulyc
 [3]: https://www.linkedin.com/in/gokulyc
+[2]: https://gitlab.com/gokulyc
