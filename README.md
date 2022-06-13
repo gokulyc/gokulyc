@@ -12,15 +12,17 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 
 #### Python
 
-- FastAPI & related, Pyspark, Django, Flask, Pandas, SqlAlchemy, Pytest.
+- FastAPI & related, Pyspark, Django, Flask, Pandas, SqlAlchemy, Pytest.  
 
 #### JS
 
-- ReactJS & related (MUI, Redux, react-query, Formik, reack-hook-form, etc) , ExpressJS, HTML, CSS.
+- ReactJS & related (MUI, Redux, react-query, Formik, reack-hook-form, etc) , ExpressJS, HTML, CSS.  
 
 #### Others
 
-- Tableau, DataViz with plotly, seaborn, matplotlib, redis, Docker.
+- Tableau, DataViz with plotly, seaborn, matplotlib, redis, Docker.  
+
+***
 
 [![Gokul's github stats](https://github-readme-stats.vercel.app/api?username=gokulyc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
