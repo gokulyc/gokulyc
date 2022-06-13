@@ -20,7 +20,7 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 
 #### Others
 
-- Tableau, DataViz with plotly, seaborn, matplotlib, redis, Docker.  
+- Redis, Docker, Tableau, DataViz with plotly, seaborn, matplotlib.  
 
 ***
 
