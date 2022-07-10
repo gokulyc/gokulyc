@@ -31,16 +31,16 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 
   
 ## 🔗 Links
-[![Medium][1.1]][1]
-[![linkedin][2.1]][2]
-[![Github Forks][3.1]][3]
-[![Gitlab][4.1]][4]
-[![dev.to][5.1]][5]
+[![Medium][1.1]][1]  
+[![linkedin][2.1]][2]  
+[![Github][3.1]][3]  
+[![Gitlab][4.1]][4]  
+[![dev.to][5.1]][5]  
 
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/medium-536C78?style=for-the-badge&logo=medium&logoColor=white
 [2.1]: https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[3.1]: https://img.shields.io/badge/github-1E1E1E?style=for-the-badge&logo=github&logoColor=white
+[3.1]: https://img.shields.io/badge/github-forks-1E1E1E?style=for-the-badge&logo=github&logoColor=white
 [4.1]: https://img.shields.io/badge/gitlab-1DA1F2?style=for-the-badge&logo=gitlab&logoColor=white
 [5.1]: https://img.shields.io/badge/dev.to-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white
 
