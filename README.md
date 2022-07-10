@@ -24,10 +24,10 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 
 ***
 
-[![Gokul's github stats](https://github-readme-stats.vercel.app/api?username=gokulyc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Gokul's github stats](https://github-readme-stats.vercel.app/api?username=gokulyc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulyc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulyc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## 🔗 Links
