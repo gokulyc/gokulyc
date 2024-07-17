@@ -36,6 +36,8 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 [![Github][3.1]][3]  
 [![Gitlab][4.1]][4]  
 [![dev.to][5.1]][5]  
+[![Blog][6.1]][6] (WIP 🚧)
+
 
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/medium-536C78?style=for-the-badge&logo=medium&logoColor=white
@@ -43,7 +45,7 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 [3.1]: https://img.shields.io/badge/github-forks-1E1E1E?style=for-the-badge&logo=github&logoColor=white
 [4.1]: https://img.shields.io/badge/gitlab-1DA1F2?style=for-the-badge&logo=gitlab&logoColor=white
 [5.1]: https://img.shields.io/badge/dev.to-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white
-
+[6.1]: https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=Astro&logoColor=white&label=Blog
 
 <!-- Links to your social media accounts -->
 
@@ -52,7 +54,7 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 [3]: https://github.com/orgs/gokulyc-forks
 [4]: https://gitlab.com/gokulyc
 [5]: https://dev.to/gokulyc
-
+[6]: https://github.gokulyc.in
 
 
   
