@@ -6,17 +6,17 @@
 
   
 ## 🚀 About Me
-I'm a full stack developer, Data Evangelist + into Data Science, Machine Learning, Deep Learning ...
+I'm a Full Stack Developer with experience in Data Science, Machine Learning, Langchain, ...
 
 ## 🛠 Skills
 
 #### Python
 
-- FastAPI & related, Pyspark, Django, Flask, Pandas, SqlAlchemy, Pytest.  
+- FastAPI, Pyspark, Django, Flask, Pandas, LangChain, LangGraph, Pytest.  
 
 #### JS
 
-- ReactJS & related (MUI, Redux, react-query, Formik, reack-hook-form, etc) , ExpressJS, HTML, CSS.  
+- ReactJS, AstroJS, Svelte, HTML, CSS.  
 
 #### Others
 
@@ -31,30 +31,22 @@ I'm a full stack developer, Data Evangelist + into Data Science, Machine Learnin
 
   
 ## 🔗 Links
-[![Medium][1.1]][1]  
-[![linkedin][2.1]][2]  
-[![Github][3.1]][3]  
-[![Gitlab][4.1]][4]  
-[![dev.to][5.1]][5]  
-[![Blog][6.1]][6] (WIP 🚧)
 
-
-<!-- Icons -->
-[1.1]: https://img.shields.io/badge/medium-536C78?style=for-the-badge&logo=medium&logoColor=white
-[2.1]: https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[3.1]: https://img.shields.io/badge/github-forks-1E1E1E?style=for-the-badge&logo=github&logoColor=white
-[4.1]: https://img.shields.io/badge/gitlab-1DA1F2?style=for-the-badge&logo=gitlab&logoColor=white
-[5.1]: https://img.shields.io/badge/dev.to-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white
-[6.1]: https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=Astro&logoColor=white&label=Blog
-
-<!-- Links to your social media accounts -->
-
-[1]: https://medium.com/@gokulyc
-[2]: https://www.linkedin.com/in/gokulyc
-[3]: https://github.com/orgs/gokulyc-forks
-[4]: https://gitlab.com/gokulyc
-[5]: https://dev.to/gokulyc
-[6]: https://github.gokulyc.in
+<a href="https://medium.com/@gokulyc" target="_blank" rel="noopener noreferrer">
+  <img alt="medium" src="https://img.shields.io/badge/medium-536C78?style=for-the-badge&logo=medium&logoColor=white" />
+</a><br>
+<a href="https://www.linkedin.com/in/gokulyc" target="_blank" rel="noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br>
+<a href="https://github.com/gokulyc" target="_blank" rel="noopener noreferrer">
+    <img alt="github" src="https://img.shields.io/badge/github-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
+</a><br>
+<a href="https://dev.to/gokulyc" target="_blank" rel="noopener noreferrer">
+    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-1E1E1E?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a><br>
+<a href="https://gokulyc.in" target="_blank" rel="noopener noreferrer">
+  <img alt="astro" src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=Astro&logoColor=white&label=Blog" />
+</a><br>
 
 
   
