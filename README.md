@@ -24,10 +24,10 @@ I'm a Full Stack Developer with experience in Data Science, Machine Learning, La
 
 ***
 
-[![Gokul's github stats](https://github-readme-stats-gokulycs-projects.vercel.app/api?username=gokulyc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gokul's github stats](https://github-readme-stats-gokulycs-projects.vercel.app/api?username=gokulyc&show_icons=true&theme=dracula)](https://github.com/gokulyc/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats-gokulycs-projects.vercel.app/api/top-langs/?username=gokulyc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gokulycs-projects.vercel.app/api/top-langs/?username=gokulyc&theme=dracula)](https://github.com/gokulyc/github-readme-stats)
 
   
 ## 🔗 Links
